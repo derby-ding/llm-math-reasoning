@@ -12,12 +12,16 @@ This project explores the capabilities of Large Language Models (LLMs) in mathem
 - Comparison with traditional mathematical reasoning systems
 
 ## Getting Started
+
 the llm checkpoints used in this project: mistral-7b, llama2-7b, aritho_math7b
-https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
-https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
-https://huggingface.co/akjindal53244/Arithmo-Mistral-7B
+
+- https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
+- https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+- https://huggingface.co/akjindal53244/Arithmo-Mistral-7B
+
 pretrained semantic similarity model: para_minilmL12v2, download link:
-https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+
+- https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 ### Prerequisites
 
 - Python 3.8+
